@@ -1,0 +1,26 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Mono:wght@500&display=swap');
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: 'Arial, Helvetica, sans-serif';
+  font-size: 30px;
+}
+
+body {
+  height: 100vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-image:url(https://thumbs.dreamstime.com/b/thermometer-background-snow-covered-tree-branch-shows-minus-degrees-196244189.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  
+}
+table{
+  background-color: #595959;
+}
+h1{
+  font-size: 40px;
+}
